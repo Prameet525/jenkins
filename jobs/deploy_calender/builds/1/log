@@ -1,0 +1,7 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/deploy_calender
+[deploy_calender] $ /bin/sh -xe /tmp/jenkins241647020454208302.sh
++ cd /var/lib/jenkins/workspace/calender
++ cp Calendar.war /opt/tomcat/apache-tomcat-8.5.69/webapps
+Finished: SUCCESS

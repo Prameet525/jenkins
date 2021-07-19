@@ -1,0 +1,64 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/java_project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/java_project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Prameet525/jenkinBackupJob.git # timeout=10
+Fetching upstream changes from https://github.com/Prameet525/jenkinBackupJob.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/Prameet525/jenkinBackupJob.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 51eaeca9747deb1dde5d77a27f296101e5883fc9 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 51eaeca9747deb1dde5d77a27f296101e5883fc9 # timeout=10
+Commit message: "java project"
+ > git rev-list --no-walk 51eaeca9747deb1dde5d77a27f296101e5883fc9 # timeout=10
+[java_project] $ /bin/sh -xe /tmp/jenkins6824916224849719563.sh
++ cd /var/lib/jenkins/workspace/java_project/initial
++ mvn compile
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< org.springframework:gs-maven >--------------------
+[INFO] Building gs-maven 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ gs-maven ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/java_project/initial/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ gs-maven ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.501 s
+[INFO] Finished at: 2021-07-19T13:40:01Z
+[INFO] ------------------------------------------------------------------------
++ mvn package
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< org.springframework:gs-maven >--------------------
+[INFO] Building gs-maven 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ gs-maven ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/java_project/initial/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ gs-maven ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ gs-maven ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/lib/jenkins/workspace/java_project/initial/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ gs-maven ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ gs-maven ---
+Build was aborted
+Aborted by [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Finished: ABORTED

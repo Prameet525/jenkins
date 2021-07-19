@@ -1,0 +1,10 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/jenking_backup
+[jenking_backup] $ /bin/sh -xe /tmp/jenkins7252104998249286497.sh
++ cd /var/lib/jenkins
++ git remote add origin https://github.com/Prameet525/jenkinBackupJob/
++ git push origin master
+fatal: could not read Username for 'https://github.com': No such device or address
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

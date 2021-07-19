@@ -1,0 +1,6 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/calender
+[calender] $ /bin/sh -xe /tmp/jenkins3140821586941068893.sh
++ f=mlavwilson%2Fmlavwilson-calendar%2Falpha-1.0%2Fcalendar.war
+Finished: SUCCESS

@@ -1,0 +1,10 @@
+Started by upstream project "[8mha:////4N97/AOq/IKM2gASymASyyVOgAvnAYYNeydIV/+gYV/mAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+iBz4guK8rNSk0v0ARbosgDHAAAA[0mjava_project" build number [8mha:////4M3L+PSfzrrcyZK0N3MTj1YwBvHZxbIJ7ZeQk8nNIXnUAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwkfZA58QVF+VmpySX6pgAwH5SOyAAAAA==[0m5
+originally caused by:
+ Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/deploy_calender
+[deploy_calender] $ /bin/sh -xe /tmp/jenkins1830340525004419362.sh
++ cd /var/lib/jenkins/workspace/calender
++ cp Calendar.war /opt/tomcat/apache-tomcat-8.5.69/webapps
+Triggering a new build of [8mha:////4OgoA7VNdb7TS94alwFuEYwMD9L6lVOP+ECq1qKAQ+2kAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP2S1OKSeJBh8SmpBTn5lan6AICpY0zMAAAA[0mtest_java_deploye
+Finished: SUCCESS

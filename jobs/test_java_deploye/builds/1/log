@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4I151qtR7XKGiIz3n1CjJkLDIkbg55+RaF1cgS34vPGMAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/az8JP2U1IKc/Mr45ESgBSmpRfoAEyvfosoAAAA=[0mdeploy_calender" build number [8mha:////4FLTA/bhxBk5ak+PQ191L3TV+2hnpDvQqcl8NuVXlayxAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjH9rPwk/ZTUgpz8yvjkRKAFKalF+kYAyOnbgssAAAA=[0m2
+originally caused by:
+ Started by upstream project "[8mha:////4N97/AOq/IKM2gASymASyyVOgAvnAYYNeydIV/+gYV/mAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6WflJ+iBz4guK8rNSk0v0ARbosgDHAAAA[0mjava_project" build number [8mha:////4M3L+PSfzrrcyZK0N3MTj1YwBvHZxbIJ7ZeQk8nNIXnUAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBmH9rPwkfZA58QVF+VmpySX6pgAwH5SOyAAAAA==[0m5
+ originally caused by:
+  Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test_java_deploye
+[test_java_deploye] $ /bin/sh -xe /tmp/jenkins3549363283622577880.sh
++ echo 'Successfully Comiled and Deployed Java project'
+Successfully Comiled and Deployed Java project
+Finished: SUCCESS

@@ -1,0 +1,23 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/java_project
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/java_project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Prameet525/jenkinBackupJob.git # timeout=10
+Fetching upstream changes from https://github.com/Prameet525/jenkinBackupJob.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/Prameet525/jenkinBackupJob.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 51eaeca9747deb1dde5d77a27f296101e5883fc9 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 51eaeca9747deb1dde5d77a27f296101e5883fc9 # timeout=10
+Commit message: "java project"
+ > git rev-list --no-walk 51eaeca9747deb1dde5d77a27f296101e5883fc9 # timeout=10
+[java_project] $ /bin/sh -xe /tmp/jenkins5855890792565040764.sh
++ cd /home/ec2-user/javaProject/jenkinBackupJob/initial/
+/tmp/jenkins5855890792565040764.sh: line 2: cd: /home/ec2-user/javaProject/jenkinBackupJob/initial/: Not a directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,23 @@
+Started by user [8mha:////4IeCicyIe2rfaBEN0+R1gJlSNKO0oGRoxtoMx/LiB6b1AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9gqLEXAAsKHOWvwAAAA==[0mpram
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/calender
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/manulachathurika/Apache_Stratos_Tomcat_Applications.git
+ > git init /var/lib/jenkins/workspace/calender # timeout=10
+Fetching upstream changes from https://github.com/manulachathurika/Apache_Stratos_Tomcat_Applications.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/manulachathurika/Apache_Stratos_Tomcat_Applications.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/manulachathurika/Apache_Stratos_Tomcat_Applications.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 956f398d8a34a2bbb0bbf2d08b43aee3c614f081 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 956f398d8a34a2bbb0bbf2d08b43aee3c614f081 # timeout=10
+Commit message: "Add calender war file"
+First time build. Skipping changelog.
+[calender] $ /bin/sh -xe /tmp/jenkins4523452264577927758.sh
+Finished: SUCCESS
